@@ -15,13 +15,13 @@
 <p>1. 개발자 채용공고 내용을 입력 창에 붙여넣고 '면접 질문 생성' 버튼을 클릭합니다.</p>
 
 <div align="center">
-    <img src="images/basic_image.png" alt="기본 화면 이미지" width="400"/>
+    <img src="images/basic_image.png" alt="기본 화면 이미지" width="500"/>
 </div>
 
 <p>2. 질문과 답변이 생성됩니다. 각 질문과 답변에 해당하는 버튼을 누르면 해당 질문 및 답변이 표시됩니다.</p>
 
 <div align="center">
-    <img src="images/make_question.png" alt="생성된 화면 이미지" width="400"/>
+    <img src="images/make_question.png" alt="생성된 화면 이미지" width="500"/>
 </div>
 
 ## 테스트
